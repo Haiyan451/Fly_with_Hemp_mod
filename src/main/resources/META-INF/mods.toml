@@ -1,0 +1,16 @@
+modLoader="javafml"
+loaderVersion="[47,)"
+license="MIT"
+issueTrackerURL="https://example.com/issues"
+
+[[mods]]
+modId="flywithhemp"
+version="0.1.0"
+displayName="Fly With Hemp"
+description="A small addon for Immersive Engineering that allows players to fly with hemp and flint and steel."
+authors="Haiyanbaka"
+
+[[dependencies.flywithhemp]]
+modId="immersiveengineering"
+versionRange="[10.0.0-169,10.1.0-171]"
+mandatory=true
